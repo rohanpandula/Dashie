@@ -1,0 +1,44 @@
+{
+  "rows": [
+    {
+      "name": "Living Room Lamp",
+      "device": "Light",
+      "feature": "Color Temp",
+      "status": "available"
+    },
+
+    {
+      "name": "TV Lights",
+      "device": "Light",
+      "feature": "Full Color",
+      "status": "offline"
+    },
+
+    {
+      "name": "Ambient Lights",
+      "device": "Light",
+      "feature": "Full Color",
+      "status": "available"
+    },
+
+    {
+      "name": "Kitchen Counter Lights",
+      "device": "Light",
+      "feature": "Full Color",
+      "status": "offline"
+    },
+    {
+      "name": "Garage Door Opener",
+      "device": "Switch",
+      "feature": "Open/Closed",
+      "status": "available"
+    },
+
+    {
+      "name": "Kitchen Island Lights",
+      "device": "Light",
+      "feature": "Full Color",
+      "status": "offline"
+    }
+  ]
+}
